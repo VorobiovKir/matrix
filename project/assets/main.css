@@ -1,0 +1,10 @@
+.container {
+  padding: 50px;
+}
+
+.rightPart span {
+  display: inline-block;
+  width: 100px;
+  height: 60px;  
+  text-align: left;
+}
